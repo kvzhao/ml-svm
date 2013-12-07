@@ -1,2 +1,10 @@
-It is the Machine Learning Course
-    Assignment 2
+It is the Machine Learning Course  Assignment 2
+/* Run the Program */
+    1. Data provided by teacher cannot directly load by libsvm, so we need reorganize the data format
+       execute the data_converter, the output file named train-db
+/* Developer's log */
+    1. We should modify data_converter.c that can do more general. (and it contains many redundant things)
+    2. Write a main file or bash file that do the simulation more easily
+    3. Visualization
+
+
